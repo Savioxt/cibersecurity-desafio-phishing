@@ -1,2 +1,2 @@
-# cibersecurity-desafio-phishing-dio
+# cibersecurity-desafio-phishing
 Santander Bootcamp Cibersegurança 
